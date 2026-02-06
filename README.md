@@ -1,18 +1,62 @@
-# 💫 About Me:
-I am a motivated AI and Machine Learning enthusiast with hands-on experience in data science, computer vision, and generative AI. I enjoy building practical, end-to-end solutions that combine clean data pipelines with intelligent models. Currently, I am actively seeking AI / ML / Data Science internship opportunities where I can apply my skills, learn from real-world problems, and contribute to impactful AI-driven products.
+# 💫 About Me
 
+I am a **Computer Science Engineering undergraduate** with a strong grounding in **machine learning systems, data analysis, and Generative AI workflows**. I have hands-on experience building **Python-based data pipelines**, conducting **exploratory data analysis**, performing **model evaluation and error analysis**, and following a **documentation-first, experimentation-driven development approach**.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/teja-matta-602b3531a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tejamatta05@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=teja05-45&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=teja05-45&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=teja05-45&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+My interests include **LLM-assisted workflows, Retrieval-Augmented Generation (RAG), and AI agent reasoning patterns**, with a focus on improving model behavior through **iterative feedback loops and simulation-style evaluation**. I am currently seeking **AI / ML / Data Science internship opportunities** where I can apply analytical rigor, learn from real-world systems, and contribute to reliable, scalable AI solutions.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=teja05-45&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/teja-matta-602b3531a/)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tejamatta05@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/teja05-45)
+
+---
+
+## 💻 Technical Skills
+
+### **Programming & Data**
+- Python, SQL, R, C  
+- Pandas, NumPy, SciPy  
+
+### **Machine Learning**
+- Supervised learning, regression, classification  
+- Model training, validation, performance evaluation  
+- Error analysis, overfitting control  
+
+### **Deep Learning & Generative AI**
+- Neural networks, transformer architectures (foundational)  
+- Prompt engineering, LLM-assisted workflows  
+- Retrieval-Augmented Generation (RAG), context grounding  
+
+### **AI Agents & Evaluation**
+- Agent reasoning concepts  
+- Multi-step decision workflows  
+- Tool-augmented reasoning  
+- Simulation-based testing, failure-mode analysis  
+
+### **Data Analysis & Visualization**
+- Exploratory Data Analysis (EDA)  
+- Statistical analysis  
+- Matplotlib, Plotly  
+
+### **Systems & Tools**
+- REST API fundamentals, JSON handling  
+- SQL / MySQL querying  
+- Git, GitHub, Jupyter Notebook, MS Excel  
+- TensorFlow, PyTorch, LangGraph (exposure)  
+
+---
+
+## 📊 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=teja05-45&theme=dark&hide_border=false)  
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=teja05-45&theme=dark&hide_border=false)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=teja05-45&theme=dark&hide_border=false&layout=compact)
+
+---
+
+![Profile Views](https://visitcount.itsvg.in/api?id=teja05-45&icon=0&color=0)
+
+<!-- Resume-aligned GitHub profile | Documentation-first | Internship-ready -->
